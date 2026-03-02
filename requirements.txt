@@ -1,0 +1,7 @@
+pywhispercpp
+piper-tts
+ollama
+pygame
+sounddevice
+soundfile
+numpy
