@@ -10,6 +10,12 @@ To run everything, you will need to follow the installation instructions for thr
 - Text-To-Speech is covered by [Piper-TTS](https://github.com/OHF-Voice/piper1-gpl), make sure to download the voice you want to use
 - [Ollama](https://github.com/ollama/ollama) is used to host the LLM to make switching models easier.  
 
+To install all the needed python packages, run:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## TODO
 
 - Need to add servo controls for raising and lowering the chest
